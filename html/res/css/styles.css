@@ -1,0 +1,17 @@
+body { font-size:16px; font-family:Arial;letter-spacing:0px; background-color:#eeeeee; }
+
+.header { font-size:24px; font-weight:bold; font-family:Arial;letter-spacing:-1px; }
+.otherScrawlz { font-size:13px; font-family:Arial;letter-spacing:-1px; }
+.byline { color:grey;font-family:Arial;font-size:14px; }
+
+.read-more { font-size: 12px; color:#000000; }
+
+h1 { font-family:Arial; color:#bb0000; letter-spacing:-2px; }
+h1 a:visited { color:#bb0000; }
+
+a:link { color:#bb0000 ; }
+a:visited { color:#bb0000; }
+a:active { color:#bb0000; }
+a:hover { color:#bb0000; }
+
+
